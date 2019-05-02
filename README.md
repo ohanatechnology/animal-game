@@ -1,6 +1,6 @@
 # Animal Game by Daniel Ohana
 
-Animal Game for arc infrastructure coding challenge.Presented as a console application.
+Animal Game for arc infrastructure coding challenge. Presented as a console application.
 
 # To Do / Improvements
 
